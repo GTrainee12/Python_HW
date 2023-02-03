@@ -11,4 +11,4 @@
 
     Урок 3. Списки и словари: : Выполнено 
 
-        Python_HomeWork2
+        Python_HomeWork3
