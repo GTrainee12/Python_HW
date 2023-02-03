@@ -7,3 +7,8 @@
     Урок 2. Циклы (for, while) : Выполнено 
 
         Python_HomeWork2
+
+
+    Урок 3. Списки и словари: : Выполнено 
+
+        Python_HomeWork2
